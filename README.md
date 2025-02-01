@@ -5,7 +5,7 @@ This project uses OpenCV to track ball movement. The process for tracking is as 
   * Convert color to HSV
   * Create a pixel mask to identify the ball using upper and lower color bounds
   * Erode and dilate the mask to reduce noise
-  * Indentify contours and draw a circle around the ball
+  * Identify contours and draw a circle around the ball
 
 ## Prerequisites
 
